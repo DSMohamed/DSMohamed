@@ -1,5 +1,5 @@
 # 👋Hey There
-![Portofolio Web](https://dsmohamed.netlify.app)
+[Portofolio Web](https://dsmohamed.netlify.app)
 
 # 💫 About Me:
 📖I'm currently studying<br>🌱I'm currently learning CS
